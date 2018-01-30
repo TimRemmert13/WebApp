@@ -26,7 +26,7 @@ and delete. Indexes have been made to optimize all queries and connection with d
   <li>All data present in the application is fake and is generated and cleaned through python pandas package</li>
   <li>For convience of grading you can login to see anyones profile to see how the app works</li>
   <li>The app is implemented with Amazon AWS RDS database and EC2 cloud computing services</li>
-  <li>Front end appearence was ignored completely for this project, I am currently working on improving this with css code</li>
+  <li>Front end appearance was ignored completely for this project, I am currently working on improving this with css code</li>
 </ul>
 <h2>How to Use it</h2>
 <p>
